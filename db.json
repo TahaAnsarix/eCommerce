@@ -5,14 +5,16 @@
       "name": "Laptop",
       "price": 85000,
       "rating": 4,
-      "description": "A laptop"
+      "description": "A laptop",
+      "img":"https://media.istockphoto.com/id/1182241805/photo/modern-laptop-with-empty-screen-on-white-background-mockup-design-copy-space-text.jpg?b=1&s=612x612&w=0&k=20&c=LCEl5NXBGjz80fmuKE97HffjoU-sjhf9i7JYY149YhU="
     },
     {
       "id": 2,
       "name": "Phone",
       "price": 64000,
       "rating": 3,
-      "description": "A Phone"
+      "description": "A Phone",
+      "img":"https://images.unsplash.com/photo-1598327105666-5b89351aff97?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8c21hcnRwaG9uZXxlbnwwfHwwfHw%3D&w=1000&q=80"
     }
   ]
 }
